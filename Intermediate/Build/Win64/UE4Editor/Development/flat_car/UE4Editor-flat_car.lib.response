@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-flat_car.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Hyper10n\Documents\Unreal Projects\flat_car\Intermediate\Build\Win64\flat_carEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Hyper10n\Documents\Unreal Projects\flat_car\Intermediate\Build\Win64\UE4Editor\Development\flat_car\flat_car.cpp.obj"
+"C:\Users\Hyper10n\Documents\Unreal Projects\flat_car\Intermediate\Build\Win64\UE4Editor\Development\flat_car\flat_carGameModeBase.cpp.obj"
+"C:\Users\Hyper10n\Documents\Unreal Projects\flat_car\Intermediate\Build\Win64\UE4Editor\Development\flat_car\flat_car.init.gen.cpp.obj"
+"C:\Users\Hyper10n\Documents\Unreal Projects\flat_car\Intermediate\Build\Win64\UE4Editor\Development\flat_car\flat_carGameModeBase.gen.cpp.obj"
+"C:\Users\Hyper10n\Documents\Unreal Projects\flat_car\Intermediate\Build\Win64\UE4Editor\Development\flat_car\Default.rc2.res"
+/OUT:"C:\Users\Hyper10n\Documents\Unreal Projects\flat_car\Intermediate\Build\Win64\UE4Editor\Development\flat_car\UE4Editor-flat_car.lib"

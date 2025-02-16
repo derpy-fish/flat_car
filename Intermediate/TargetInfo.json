@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "flat_car",
+			"Path": "C:\\Users\\Hyper10n\\Documents\\Unreal Projects\\flat_car\\Source\\flat_car.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "flat_carEditor",
+			"Path": "C:\\Users\\Hyper10n\\Documents\\Unreal Projects\\flat_car\\Source\\flat_carEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

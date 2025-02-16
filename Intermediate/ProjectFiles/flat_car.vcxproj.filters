@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\flat_car.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{78DFDD7C-B121-4B78-AC21-E6BFBCC0C898}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\flat_car.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\flat_carEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{25830A39-D212-48FB-8733-0F29A740962C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\flat_car">
+      <UniqueIdentifier>{BA38A013-542D-4870-A37B-96BF2D4A2AEE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\flat_car\flat_car.Build.cs">
+      <Filter>Source\flat_car</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\flat_car\flat_car.cpp">
+      <Filter>Source\flat_car</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\flat_car\flat_car.h">
+      <Filter>Source\flat_car</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\flat_car\flat_carGameModeBase.cpp">
+      <Filter>Source\flat_car</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\flat_car\flat_carGameModeBase.h">
+      <Filter>Source\flat_car</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
