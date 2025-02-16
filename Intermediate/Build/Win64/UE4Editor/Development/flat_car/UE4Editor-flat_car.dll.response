@@ -43,6 +43,8 @@
 "L:\thomas\tools\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
 "L:\thomas\tools\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
 "L:\thomas\tools\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
+"L:\thomas\tools\UE_4.27\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\UE4Editor\Development\Paper2D\UE4Editor-Paper2D.lib"
+"L:\thomas\tools\UE_4.27\Engine\Plugins\Experimental\EnhancedInput\Intermediate\Build\Win64\UE4Editor\Development\EnhancedInput\UE4Editor-EnhancedInput.lib"
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"

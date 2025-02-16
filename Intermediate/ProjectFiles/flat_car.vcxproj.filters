@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\flat_car.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{78DFDD7C-B121-4B78-AC21-E6BFBCC0C898}</UniqueIdentifier>
+      <UniqueIdentifier>{C6F3C10E-D650-48A5-87DC-3F6B0A75F8B9}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\flat_car.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,10 @@
     <None Include="..\..\Source\flat_carEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{25830A39-D212-48FB-8733-0F29A740962C}</UniqueIdentifier>
+      <UniqueIdentifier>{DD73AB77-23E1-43A8-B54C-109F2713A200}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +26,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\flat_car">
-      <UniqueIdentifier>{BA38A013-542D-4870-A37B-96BF2D4A2AEE}</UniqueIdentifier>
+      <UniqueIdentifier>{19112869-ADB4-422B-95E6-5C9BDEE7A782}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\flat_car\flat_car.Build.cs">
       <Filter>Source\flat_car</Filter>
